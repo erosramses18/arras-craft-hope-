@@ -1,2 +1,2 @@
-# arras-craft-hope-
-my only hope to revive arras craft
+# ArrasCraft.io
+A arras.io private server hosted by CancelX
